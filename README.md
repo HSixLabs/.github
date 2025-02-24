@@ -1,1 +1,1 @@
-# .github
+We're a community of developers who take a scientific, data-driven approach to building software that solves immediate problems. Our work spans web development, AI-powered applications, automation, and cloud infrastructure–always focused on practical solutions that deliver real value.
